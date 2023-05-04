@@ -5,8 +5,7 @@ Potato
 Banana
 Apple
 
-Meat
-susages
+
 
 Diary
 butter
@@ -14,4 +13,3 @@ cheese
 egg
 
 
-Pets
