@@ -5,10 +5,8 @@ Potato
 Banana
 Apple
 
-Meat
-susages
-
-Diary
 
 
-Pets
+
+
+
