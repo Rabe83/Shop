@@ -9,6 +9,9 @@ Meat
 susages
 
 Diary
+butter
+cheese
+egg
 
 
 Pets
